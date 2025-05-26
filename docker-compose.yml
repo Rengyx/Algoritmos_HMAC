@@ -12,7 +12,7 @@ services:
   hmac-client:
     build: .
     container_name: hmac-client
-    command: bash -c "sleep 3 && ./client"  # Delay to let server start
+    command: bash -c "sleep 3 && ./client"  # small delay to let server start
     networks:
       - hmac-net
     depends_on:
@@ -21,3 +21,4 @@ services:
 networks:
   hmac-net:
     driver: bridge
+
