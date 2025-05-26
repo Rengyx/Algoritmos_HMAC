@@ -10,5 +10,5 @@ Little example for HMAC communication between two dockers containers, for learni
 If you haven’t already:
 
 ```bash
-git clone https://your-repo-url](https://github.com/Rengyx/Algoritmos_HMAC.git
+git clone https://github.com/Rengyx/Algoritmos_HMAC.git
 cd project/
