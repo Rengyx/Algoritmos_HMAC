@@ -93,8 +93,3 @@ HMAC is valid ✅
 - 🔄 Enable two-way messaging
 - 📡 Secure with TLS using `SSL_*` OpenSSL API
 
----
-
-## 📃 License
-
-MIT License
