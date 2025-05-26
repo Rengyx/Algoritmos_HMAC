@@ -85,11 +85,3 @@ HMAC is valid ✅
 - This is a demo — in real systems, use secure key exchange and encryption (e.g., TLS).
 
 ---
-
-## 📤 Want to Extend It?
-
-- ✅ Add HMAC verification on the client
-- 📁 Use mounted volumes to share keys or messages
-- 🔄 Enable two-way messaging
-- 📡 Secure with TLS using `SSL_*` OpenSSL API
-
