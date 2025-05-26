@@ -12,6 +12,7 @@ If you haven’t already:
 ```bash
 git clone https://github.com/Rengyx/Algoritmos_HMAC.git
 cd project/
-
+```
 ```bash
 docker-compose up --build
+```
