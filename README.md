@@ -1,4 +1,4 @@
-
+# For academic purposes only
 # 🔐 HMAC Signature Exchange via C++ and Docker
 
 This project demonstrates how to securely send a message with an HMAC signature from a **client** container to a **server** container using **C++**, **OpenSSL**, and **Docker Compose**.
