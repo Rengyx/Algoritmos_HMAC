@@ -12,7 +12,9 @@ RUN apt-get update && \
 COPY . /app
 WORKDIR /app
 
+# Build both client and server
 RUN g++ server.cpp -o server -lssl -lcrypto
 RUN g++ client.cpp -o client -lssl -lcrypto
 
 CMD ["bash"]
+
