@@ -3,7 +3,7 @@ Little example for HMAC communication between two dockers containers, for learni
 
 ---
 ## 📦 Project Structure
-project/
+project/\n
 ├── Dockerfile # Builds both client and server
 ├── docker-compose.yml # Defines containers and networking
 ├── client.cpp # Sends message + HMAC to server
